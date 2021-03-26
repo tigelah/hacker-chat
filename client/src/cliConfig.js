@@ -1,4 +1,4 @@
-const PRODUCTION_URL = 'https://hacker-chat-fo.herokuapp.com/'
+const PRODUCTION_URL = ''
 
 
 export default class CliConfig {
