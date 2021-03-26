@@ -3,9 +3,9 @@
 /*
     chmod +x index.js
     npm unpublish --force
-    npm unlink -g @fernandoguide/hacker-chat-client
+    npm unlink -g @tigelah/hacker-chat-client
 
-    npm i -g @fernandoguide/hacker-chat-client
+    npm i -g @tigelah/hacker-chat-client
 */
 
 
