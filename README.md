@@ -3,7 +3,7 @@
 # Passo 1 basta instalar o client com o comando
 
 ```
-npm i -g @fernandoguide/hacker-chat-client
+npm i -g @tigelah/hacker-chat
 ```
  
 # Passo 2 usar o comando 

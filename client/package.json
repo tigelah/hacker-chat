@@ -1,10 +1,10 @@
 {
-  "name": "@fernandoguide/hacker-chat-client",
+  "name": "@tigelah/hacker-chat",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin":{
+  "bin": {
     "hacker-chat": "index.js"
   },
   "scripts": {
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rodrigo Oliveira",
   "license": "ISC",
   "dependencies": {
     "blessed": "^0.1.81"
